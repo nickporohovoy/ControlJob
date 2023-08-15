@@ -12,3 +12,5 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → [] -->
+
+1. Репозиторий создали - https://github.com/nickporohovoy/ControlJob.git
