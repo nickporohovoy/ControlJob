@@ -14,3 +14,4 @@
 [“Russia”, “Denmark”, “Kazan”] → [] -->
 
 1. Репозиторий создали - https://github.com/nickporohovoy/ControlJob.git
+2. В этой же папкеи создали файл с блок схемой - Blok-shema
