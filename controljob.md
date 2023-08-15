@@ -14,3 +14,5 @@
 [“Russia”, “Denmark”, “Kazan”] → [] -->
 
 1. Репозиторий создали - https://github.com/nickporohovoy/ControlJob.git
+
+3. В этой же папке создали файл с тестовым описанием для репозитория на GIT
