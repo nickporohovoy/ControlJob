@@ -13,19 +13,19 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → [] -->
 
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD
 1. Репозиторий создали - https://github.com/nickporohovoy/ControlJob.git
-<<<<<<< HEAD
 2. В этой же папкеи создали файл с блок схемой - Blok-shema
 ![БЛОК-СХЕМА](Blok-shema.png)
-=======
 
 3. В этой же папке создали файл с тестовым описанием для репозитория на GIT
->>>>>>> tretiy_punkt
+![README](README.txt)
+
+
 =======
 <!-- 1. Репозиторий создали - https://github.com/nickporohovoy/ControlJob.git
 
-4. Создали ветку под написание кода. -->
+4. Создали ветку под написание кода. --> -->
 
 string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
 string[] array2 = new string[array1.Length];
@@ -51,4 +51,4 @@ void PrintArray(string[] array)
 }
 SecondArrayWithIF(array1, array2);
 PrintArray(array2);
->>>>>>> chetvertiy_punkt
+<!-- >>>>>>> chetvertiy_punkt -->
